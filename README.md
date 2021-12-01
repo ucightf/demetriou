@@ -1,4 +1,4 @@
-# Demetriou lab RNA-Seq 202
+# Demetriou lab RNA-Seq 2021
 
 # RNA-seq analysis of old versus young, male versus female, and naïve versus effector memory CD4+ T cells.
 
